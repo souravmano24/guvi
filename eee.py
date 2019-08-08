@@ -2,4 +2,4 @@ ch = input("Enter a character: ")
 if((ch>='a' and ch<= 'z') or (ch>='A' and ch<='Z')):
     print(ch, "Alphabet")
 else:
-    print(ch, "Alphabet")
+    print(ch, "Not a Alphabet")
